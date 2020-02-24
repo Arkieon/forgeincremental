@@ -31,13 +31,14 @@
 
 .buyButton {
     background-color: #13e40b;
-    border: 5px solid #000000;
+    border: 10px solid #000000;
     color: #f0f0f0;
     text-align: center;
     text-decoration: none;
     cursor: pointer;
     font-size: 20px;
     width: 150px;
+    height: 50px;
     -webkit-user-select: none;
     -moz-user-select: none;
     -ms-user-select: none;
