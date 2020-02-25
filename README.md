@@ -10,8 +10,10 @@ Keep in mind this is my first HTML5 based game so it aint gonna be perfect.
 <br>
 //Updates and Fixes
 <br>
+Overhaul V1 Update
 <br>
-Design OVerhaul!
+<br>
+Design Overhaul!
 <br>
 <br>
 Two New Buildings
@@ -25,4 +27,6 @@ Added CPS Counter and Overall Swords Production
 Commiting Branches/Users
 <br>
 <br>
-Overhaul by MarauderKnight3 2/24/2020
+MarauderKnight3
+Arkieon
+

@@ -8,30 +8,30 @@ var entireCPS = 0;
 
 //To add another building, you MUST add another building data set into the buildings array with its stats. This can simply be done by copying an object {...} below and editing the stats. See the JSON to add in said building's place in the table on the site.
 var buildings = [{
-        name: "Novice Forge",
-        CPS: 0.2,
-        ESF: 0,
-        owned: 0,
-        cost: 10
-    }, {
-        name: "Adept Forge",
-        CPS: 3,
-        ESF: 0,
-        owned: 0,
-        cost: 100,
-    }, {
-        name: "Great Forge",
-        CPS: 12,
-        ESF: 0,
-        owned: 0,
-        cost: 220
-    }, {
-        name: "Diehard Forge",
-        CPS: 30,
-        ESF: 0,
-        owned: 0,
-        cost: 590
-    }
+    name: "Novice Forge",
+    CPS: 0.2,
+    ESF: 0,
+    owned: 0,
+    cost: 10
+}, {
+    name: "Adept Forge",
+    CPS: 3,
+    ESF: 0,
+    owned: 0,
+    cost: 100,
+}, {
+    name: "Great Forge",
+    CPS: 12,
+    ESF: 0,
+    owned: 0,
+    cost: 220
+}, {
+    name: "Diehard Forge",
+    CPS: 30,
+    ESF: 0,
+    owned: 0,
+    cost: 590
+}
 ];
 
 function correctRound(num) {
@@ -86,3 +86,6 @@ function buyAcquisition(ID, amount) {
     }
     updateDisplay();
 }
+
+
+
