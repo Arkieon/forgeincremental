@@ -1,32 +1,20 @@
 # Waste Time Making Swords
-W.I.P im still learning js and all that.
-<br>
-<br>
-Forge Incremental is an idle game I'm working on, feel free to watch this repository or commit in anyway. 
-<br>
-<br>
-Keep in mind this is my first HTML5 based game so it aint gonna be perfect.
-<br>
-<br>
-//Updates and Fixes
-<br>
-Overhaul V1 Update
-<br>
-<br>
-Design Overhaul!
-<br>
-<br>
-Two New Buildings
-<br>
-<br>
-Added CPS Counter and Overall Swords Production
-<br>
-<br>
+  Waste Time Making Swords is a new idle game dedicated to wasting alot of your time. Whether you'd rather spend your time outside, or watching that new My Little Pony special on TV (Disclaimer: We have nothing against Bronies or any MLP fan). WTMS is made just so you can sit there and watch all those swords go to waste them to make forges somehow. New things will be added into the game, such as a storyline, some little secrets, more buildings, and upgrades. 
+  The game will be available on itch.io upon Early Access sometime Winter 2020 or 2021. In the mean time, if you want to check out or progress, you can view the game on our GitHub Page: https://arkieon.github.io/lfsforgeidle/
+
+## Updates and Fixes
+### Overhaul V1 Update
+
+* Design Overhaul!
+
+* Two New Buildings
+
+* Added CPS Counter and Overall Swords Production
 
 
-Commiting Branches/Users
-<br>
-<br>
-MarauderKnight3
-Arkieon
+
+### Devs
+
+* MarauderKnight3
+* Arkieon
 
